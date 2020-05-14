@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "message": "Un de vos objet a tapé dans l'oeil d'un autre utilisateur !"
+},
+{
+  "id": 2,
+  "message": "L'objet que vous avez choisi en échange a été accepté, confirmez le troc !"
+},
+{
+  "id": 3,
+  "message": "Un autre utilisateur a choisis un objet de votre placard en échange !"
+}

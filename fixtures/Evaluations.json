@@ -1,0 +1,27 @@
+{
+	"id": 10,
+	"assessor_id": 2,
+	"evaluated_id": 1,
+	"transaction_id": 123,
+	"message": "Légèrement en retard mais objet tout à fait conforme à la description. Je suis contente !",
+	"note": 7,
+	"created_at": 1546723555
+},
+{
+	"id": 11,
+	"assessor_id": 1,
+	"evaluated_id": 3,
+	"transaction_id": 456,
+	"message": "Objet exactement comme décrit et personne agréable.",
+	"note": 10,
+	"created_at": 1546723555
+},
+{
+	"id": 12,
+	"assessor_id": 2,
+	"evaluated_id": 3,
+	"transaction_id": 789,
+	"message": "Objet plus petit que ce que je pensais mais correct quand même. Personne à l'heure.",
+	"note": 8,
+	"created_at": 1546723555
+}

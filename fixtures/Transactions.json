@@ -1,0 +1,28 @@
+{
+	"id": 123,
+	"buyer_id": 2,
+	"seller_id": 1,
+	"seller-object": 567,
+	"state": "open",
+	"created-at": 1543161450
+},
+{
+	"id": 456,
+	"buyer_id": 1,
+	"seller_id": 3,
+	"buyer_object": 234,
+	"seller-object": 987,
+	"state": "accepted",
+	"created-at": 1543161450,
+	"updated_at": 1543189870
+},
+{
+	"id": 789,
+	"buyer_id": 2,
+	"seller_id": 3,
+	"buyer_object": 78,
+	"seller-object": 3,
+	"state": "completed",
+	"created-at": 1543161450,
+	"updated_at": 1543189870
+},

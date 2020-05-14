@@ -1,0 +1,33 @@
+{
+	"id": 1,
+	"user_id" : 3,
+	"title" : "Cendrier en terre cuite",
+	"description" : "Cendrier acheté au Maroc lors d'une de mes vacances. J'ai arrêté de fumer et je n'ai pas encore eu l'occasion de l'utiliser !",
+	"key_words" : [ "cendrier", "maroc", "terre", "coloré" ],
+	"category" : "home",
+	"photo" : "root/img/objects/cendrier_89_13332234.jpg",
+	"state" : "available",
+	"created_at" : 1443161450
+},
+{
+	"id": 2,
+	"user_id" : 1,
+	"title" : "Pull en laine blanc cassé",
+	"description" : "J'ai tricotté ce pull parmi une dizaine d'autres l'hiver dernier mais je ne l'ai porté qu'une seule fois.",
+	"key_words" : [ "pull", "laine", "tricot", "hiver" ],
+	"category" : "clothes",
+	"photo" : "root/img/objects/pullmoche_89_13332234.jpg",
+	"state" : "available",
+	"created_at" : 1443161450
+},
+{
+	"id": 3,
+	"user_id" : 2,
+	"title" : "Table basse en chêne",
+	"description" : "Cette magnifique table basse en chêne doit disparaître de mon salon car je refait la déco :) Elle a une petite égratignure sur un des pieds mais sinon elle est encore en parfait état !",
+	"key_words" : [ "table", "basse", "bois", "chêne", "déco" ],
+	"category" : "deco",
+	"photo" : "root/img/objects/table_89_13332234.jpg",
+	"state" : "available",
+	"created_at" : 1443161450
+}
